@@ -51,11 +51,13 @@ def all_winter_holiday_supplies(holiday_hash)
     supply
   end
     array.flatten
-  # return an array of all of the supplies that are used in the winter season
 
 end
 
 def all_supplies_in_holidays(holiday_hash)
+  
+  
+  
   # iterate through holiday_hash and print items such that your readout resembles:
   # Winter:
   #   Christmas: Lights, Wreath
